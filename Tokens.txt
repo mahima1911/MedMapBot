@@ -1,0 +1,7 @@
+Access token:21244214884683755521-aKdt2fuKq2jOxZrcCn3BkhYVwdVofh
+
+Access token secret:82TAy9wMROJqgH3MXYWUm4Jd61Rib5fg4jXA7p720z45i
+
+API key: 7NId71jMVK1ZLQ5pPp3wIK6YL
+
+API secret key: 7FsNm7Q7hz0LuAbs1AsIpaWlibVxur9suInSKbuu9Ilbu88DDr
