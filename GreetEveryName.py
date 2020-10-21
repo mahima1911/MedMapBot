@@ -6,9 +6,9 @@ import os
 
 path = os.getcwd()
 CONSUMER_KEY = '7NId71jMVK1ZLQ5pPp3wIK6YL'
-CONSUMER_SECRET = '7FsNm7Q7hz0LuAbs1AsIpaWlibVxur9suInSKbuu9Ilbu88DDr'
-ACCESS_KEY = '1244214884683755521-fnMyyltyVhp5Sp0EH0waIRUKodj3rT'
-ACCESS_SECRET = 'uXAuA098t9zxPCYwaodmfrymvBqXZFcLFSAwUb5pmjNOw'
+CONSUMER_SECRET = '7FsNm7Q7hz0LuAbs****'
+ACCESS_KEY = '1244214884683755521****'
+ACCESS_SECRET = 'uXAuA098t9zxPCYwao****'
 covid_hospitals = pd.read_csv("ICMRTestingLabs.csv")
 hospitals = pd.read_csv("devfest.csv")
 
